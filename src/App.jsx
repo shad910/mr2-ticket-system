@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from './shared/Navbar';
+import Footer from './shared/Footer';
 
 function App() {
 
@@ -9,7 +10,9 @@ function App() {
         <Navbar />
       </header>
       <main className='flex-1 my-10'></main>
-      <footer></footer>
+      <footer>
+        <Footer />
+      </footer>
     </div>
   )
 }
