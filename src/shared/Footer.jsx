@@ -112,7 +112,7 @@ const Footer = () => {
                 <div className="border-t border-gray-800 my-10"></div>
 
                 <div className="text-center text-sm text-gray-500">
-                    © 2025 CS — Ticket System. All rights reserved.
+                    &copy; 2025 CS — Ticket System. All rights reserved.
                 </div>
 
             </div>
