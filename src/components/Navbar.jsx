@@ -4,8 +4,8 @@ import { HiMenu } from "react-icons/hi";
 
 const Navbar = () => {
     return (
-        <nav className="w-full bg-base-200 border-b border-base-300">
-            <div className="md:max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <nav className="w-full bg-base-100 border-b border-base-300">
+            <div className="md:w-11/12 mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex items-center h-14">
 
                     {/* Left: Logo */}
@@ -26,8 +26,7 @@ const Navbar = () => {
                             <li><a className="hover:text-black transition-colors">Contact</a></li>
                         </ul>
 
-                        {/* New Ticket Button */}
-                        <button className="btn btn-xs sm:btn-sm md:btn-sm bg-purple-600 hover:bg-purple-700 text-white border-none normal-case px-4">
+                        <button className="btn btn-xs sm:btn-sm md:btn-sm bg-linear-65 from-[#422AD5] to-purple-500 text-white border-none normal-case px-4">
                             <FiPlus className="mr-1 text-base" />
                             <span className="hidden sm:inline">New Ticket</span>
                         </button>

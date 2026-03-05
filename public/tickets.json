@@ -14,7 +14,7 @@
     "description": "Payment fails during checkout with an unknown transaction error.",
     "customer": "Sarah Ahmed",
     "priority": "High",
-    "status": "In Progress",
+    "status": "Open",
     "createdAt": "2026-03-01T11:30:00.000Z"
   },
   {
@@ -32,7 +32,7 @@
     "description": "Ticket statistics are not updating in real-time on the admin dashboard.",
     "customer": "Ayesha Rahman",
     "priority": "Medium",
-    "status": "In Progress",
+    "status": "Open",
     "createdAt": "2026-03-02T10:20:00.000Z"
   },
   {
@@ -41,7 +41,7 @@
     "description": "Users are not receiving email notifications after submitting a ticket.",
     "customer": "Michael Brown",
     "priority": "High",
-    "status": "Resolved",
+    "status": "Open",
     "createdAt": "2026-03-02T13:10:00.000Z"
   },
   {
@@ -59,7 +59,7 @@
     "description": "Password reset link expires immediately after being generated.",
     "customer": "James Wilson",
     "priority": "High",
-    "status": "In Progress",
+    "status": "Open",
     "createdAt": "2026-03-03T09:40:00.000Z"
   },
   {
@@ -77,7 +77,7 @@
     "description": "Searching tickets by title or ID does not return any results.",
     "customer": "Robert Johnson",
     "priority": "Medium",
-    "status": "Resolved",
+    "status": "Open",
     "createdAt": "2026-03-04T08:05:00.000Z"
   },
   {
@@ -95,7 +95,7 @@
     "description": "The notification icon does not reflect new ticket counts.",
     "customer": "Chris Evans",
     "priority": "Low",
-    "status": "In Progress",
+    "status": "Open",
     "createdAt": "2026-03-04T13:35:00.000Z"
   },
   {
@@ -113,7 +113,7 @@
     "description": "Attached files cannot be downloaded from resolved tickets.",
     "customer": "Daniel Lee",
     "priority": "Low",
-    "status": "Resolved",
+    "status": "Open",
     "createdAt": "2026-03-05T07:30:00.000Z"
   },
   {
@@ -122,7 +122,7 @@
     "description": "Users are logged out automatically after only a few minutes of inactivity.",
     "customer": "Raihan Islam",
     "priority": "Medium",
-    "status": "In Progress",
+    "status": "Open",
     "createdAt": "2026-03-05T09:00:00.000Z"
   },
   {
@@ -130,6 +130,15 @@
     "title": "Dark mode toggle not working",
     "description": "Switching between light and dark mode does not update the UI theme.",
     "customer": "Olivia Martin",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-05T10:45:00.000Z"
+  },
+  {
+    "id": "TCK-1016",
+    "title": "Light mode toggle not working",
+    "description": "Switching between light and dark mode does not update the UI theme.",
+    "customer": "Oggy Martin",
     "priority": "Low",
     "status": "Open",
     "createdAt": "2026-03-05T10:45:00.000Z"
