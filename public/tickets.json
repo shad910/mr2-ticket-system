@@ -1,0 +1,137 @@
+[
+  {
+    "id": "TCK-1001",
+    "title": "Login page not loading",
+    "description": "Users are unable to access the login page. It keeps showing a blank screen after clicking login.",
+    "customer": "John Carter",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01T09:15:00.000Z"
+  },
+  {
+    "id": "TCK-1002",
+    "title": "Payment gateway error",
+    "description": "Payment fails during checkout with an unknown transaction error.",
+    "customer": "Sarah Ahmed",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-03-01T11:30:00.000Z"
+  },
+  {
+    "id": "TCK-1003",
+    "title": "Profile image upload issue",
+    "description": "Customers cannot upload profile images. The upload button does not respond.",
+    "customer": "David Miller",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-02T08:45:00.000Z"
+  },
+  {
+    "id": "TCK-1004",
+    "title": "Dashboard statistics incorrect",
+    "description": "Ticket statistics are not updating in real-time on the admin dashboard.",
+    "customer": "Ayesha Rahman",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-03-02T10:20:00.000Z"
+  },
+  {
+    "id": "TCK-1005",
+    "title": "Email notification not received",
+    "description": "Users are not receiving email notifications after submitting a ticket.",
+    "customer": "Michael Brown",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2026-03-02T13:10:00.000Z"
+  },
+  {
+    "id": "TCK-1006",
+    "title": "Slow page loading speed",
+    "description": "Support dashboard takes too long to load ticket data.",
+    "customer": "Fatima Khan",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-03T07:55:00.000Z"
+  },
+  {
+    "id": "TCK-1007",
+    "title": "Cannot reset password",
+    "description": "Password reset link expires immediately after being generated.",
+    "customer": "James Wilson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-03-03T09:40:00.000Z"
+  },
+  {
+    "id": "TCK-1008",
+    "title": "UI broken on mobile devices",
+    "description": "Layout breaks on smaller screens and buttons overlap.",
+    "customer": "Nusrat Jahan",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-03T12:25:00.000Z"
+  },
+  {
+    "id": "TCK-1009",
+    "title": "Search functionality not working",
+    "description": "Searching tickets by title or ID does not return any results.",
+    "customer": "Robert Johnson",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2026-03-04T08:05:00.000Z"
+  },
+  {
+    "id": "TCK-1010",
+    "title": "Error 500 on ticket submission",
+    "description": "Submitting a new ticket results in a server error.",
+    "customer": "Tasnim Akter",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-04T10:50:00.000Z"
+  },
+  {
+    "id": "TCK-1011",
+    "title": "Notification badge not updating",
+    "description": "The notification icon does not reflect new ticket counts.",
+    "customer": "Chris Evans",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2026-03-04T13:35:00.000Z"
+  },
+  {
+    "id": "TCK-1012",
+    "title": "Unable to change ticket priority",
+    "description": "Admin users cannot update ticket priority from the dashboard.",
+    "customer": "Mariam Sultana",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-04T15:10:00.000Z"
+  },
+  {
+    "id": "TCK-1013",
+    "title": "File attachment not downloading",
+    "description": "Attached files cannot be downloaded from resolved tickets.",
+    "customer": "Daniel Lee",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2026-03-05T07:30:00.000Z"
+  },
+  {
+    "id": "TCK-1014",
+    "title": "Session timeout too short",
+    "description": "Users are logged out automatically after only a few minutes of inactivity.",
+    "customer": "Raihan Islam",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-03-05T09:00:00.000Z"
+  },
+  {
+    "id": "TCK-1015",
+    "title": "Dark mode toggle not working",
+    "description": "Switching between light and dark mode does not update the UI theme.",
+    "customer": "Olivia Martin",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-05T10:45:00.000Z"
+  }
+]
